@@ -1,6 +1,9 @@
 # Weather App
 ![image](https://github.com/MagneticZebra/Weather-App/assets/87204308/b9d2510c-152f-4232-b163-a3d8b711b24d)
 
+## See it in action
+https://weatherpresenter.netlify.app/
+
 ## Overview
 A simple JavaScript weather application that fetches and displays weather data from the OpenWeatherMap API. Users can search for weather information by city name.
 
